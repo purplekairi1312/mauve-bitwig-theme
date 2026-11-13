@@ -2,6 +2,8 @@
 
 My old mauve theme for Bitwig Studio, since some people asked for it. For the latest Bitwig (6.1.7).
 
+![Bitwig Studio with the mauve theme](preview.png)
+
 ## Install
 
 1. Get the [Bitwig Theme Editor](https://github.com/Berikai/bitwig-theme-editor) and quit Bitwig.
