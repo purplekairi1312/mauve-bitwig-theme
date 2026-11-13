@@ -1,6 +1,6 @@
 # mauve-bitwig-theme
 
-My old mauve theme for Bitwig Studio, since some people asked for it. Made on Bitwig 6.1.7.
+My old mauve theme for Bitwig Studio, since some people asked for it. For the latest Bitwig (6.1.7).
 
 ## Install
 
